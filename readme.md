@@ -2,4 +2,4 @@
 
 Requires Visual Studio Enterprise for test libraries
 
-Will not work out of the box since it has no hooked up tests, just initial framework
+Install nuget packages and build project to run windows calculator tests
