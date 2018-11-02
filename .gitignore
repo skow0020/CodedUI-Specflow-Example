@@ -32,3 +32,6 @@ packages
 
 # Windows Store app package directory
 AppPackages/
+
+# Visual Studio generated stuff
+.vs/
