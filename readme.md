@@ -12,7 +12,7 @@ Install nuget packages and build project to run windows calculator tests
 
 ***How to run tests from command line
 1. Open command prompt in the base directory containing Run.bat file
-2. From command prompt run 'Run.bat <FEATURE_SCENARIO_TAG(Optional)'
+2. From command prompt run 'Run.bat <FEATURE_SCENARIO_TAG(Optional)>'
 
 ***How to set up project to manipulate feature files
 1. Open the solution in Visual Studio and build it
